@@ -1,0 +1,2 @@
+apt install wireguard
+apt install iptables resolvconf
